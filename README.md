@@ -69,12 +69,13 @@
 
 ## 📸 Screenshots
 
-*(Add screenshots of your Dashboard, Map, and Reporting page here)*
+<img width="1920" height="1140" alt="Screenshot 2025-12-25 032326" src="https://github.com/user-attachments/assets/d6113967-3f31-4745-877d-308700d1a1bc" />
+<img width="1896" height="1055" alt="Screenshot 2025-12-25 032541" src="https://github.com/user-attachments/assets/2be7c518-6fa0-4292-b0c2-466454a98b24" />
+<img width="1873" height="908" alt="Screenshot 2025-12-25 032724" src="https://github.com/user-attachments/assets/4cd4422e-63dc-4e61-aa16-218a06d45a3c" />
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License.
