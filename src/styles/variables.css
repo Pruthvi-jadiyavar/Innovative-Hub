@@ -1,0 +1,36 @@
+:root {
+  /* Vibrant & Colorful Palette */
+  --color-bg-primary: #F0F4F8;
+  /* Light Blue-Grey */
+  --color-bg-secondary: #E1E8EF;
+  /* Slightly darker */
+  --color-bg-card: #FFFFFF;
+
+  --color-text-primary: #1A365D;
+  /* Dark Blue */
+  --color-text-secondary: #4A5568;
+
+  --color-accent: #3182CE;
+  /* Bright Blue */
+  --color-primary-btn: #3182CE;
+  --color-primary-btn-hover: #2B6CB0;
+
+  --color-success: #38A169;
+  /* Green */
+  --color-danger: #E53E3E;
+  /* Red */
+  --color-warning: #DD6B20;
+  /* Orange */
+  --color-info: #3182CE;
+  /* Blue */
+
+  --font-family-main: 'Inter', system-ui, sans-serif;
+
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+
+  --border-radius: 16px;
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-nav: 0 -4px 6px -1px rgba(0, 0, 0, 0.05);
+}
