@@ -2,7 +2,6 @@
 
 **SafeConnect** (formerly SafetyFirst) is a comprehensive campus safety web application designed to bridge the gap between students and campus security. It features real-time incident reporting, danger zone mapping, AI-powered assistance, and a dedicated command center for security personnel.
 
-![SafeConnect Banner](https://via.placeholder.com/800x200?text=SafeConnect+Campus+Safety)
 
 ## 🚀 Features
 
@@ -77,5 +76,7 @@
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+MVP LINK; https://campus-safety-49426.web.app/login
 
 
